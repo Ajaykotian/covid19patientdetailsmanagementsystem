@@ -1,21 +1,42 @@
-# _Covid19 hospital management_
+# covid19patientmanagement
+
+## * for login use
+
+### user- admin
+
+### password- admin
 
 
-<!-- about us & view patient -->
-### Tech Stack
-- Frontend
-	- HTML5
-	- CSS3
-	- JQuery
-    - Bootstrap4
-- Backend
-    - Django framework
-- Database
-    - SQLite
 
-### Local Setup
-- Clone repository.
-- Setup virtual environment
-- Exceute `pip install -r requirements.txt`.
-- run `python manage.py runserver`.
-- Go to `127.0.0.1::8000` in your web browser.
+#### Tech used
+
+Front-end
+
+-HTML
+
+-CSS3
+
+-JQuery
+
+-Bootstrap4
+
+Back-end
+
+-Django Framework
+
+-SQLite Database
+
+
+Execute 'pip install -r requiremnts.txt'
+
+run 'python manage.py runserver'
+
+open the following link
+
+
+
+https://covid19patientdetailsmanagementsystem.azurewebsites.net/
+
+
+
+

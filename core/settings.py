@@ -27,7 +27,7 @@ SECRET_KEY = '6=drjci9-24*%p-ru1sbqbl0$$!b)_q&_cu5z26y7wk+wk9g!^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['covid19patientdetailsmanagementsystem.azurewebsites.net']
+ALLOWED_HOSTS = ['covidinfodesk.azurewebsites.net']
 
 
 # Application definition
